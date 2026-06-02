@@ -65,8 +65,9 @@ The dashboard provides insights into sales performance, profit trends, product p
 ---
 
 ## Dashboard Preview
+<img width="1366" height="768" alt="Screenshot (1566)" src="https://github.com/user-attachments/assets/5af7c72b-103e-40cf-8949-6f83b18fa069" />
 
-(Add dashboard screenshot here)
+
 
 ---
 
@@ -84,8 +85,4 @@ The dashboard provides insights into sales performance, profit trends, product p
 
 ## Author
 
-Shri Ram
-
-LinkedIn: (Add LinkedIn Profile Link)
-
-GitHub: (Add GitHub Profile Link)
+Sri Ram
