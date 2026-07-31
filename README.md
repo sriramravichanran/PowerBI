@@ -8,7 +8,7 @@ The dashboard provides insights into sales performance, profit trends, product p
 
 ---
 
-## Objectives
+## Objectivesw
 
 - Analyze financial sales data
 - Track key business KPIs
